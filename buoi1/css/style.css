@@ -67,6 +67,8 @@ main section {
   height: 500px;
   background: #f9f9f9;
   padding: 20px;
+  background: url(../images/wall.jpg);
+  color: #fff;
 }
 
 main section h2 {
